@@ -1,0 +1,9 @@
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Sony\source\repos\BasicCalApp_A00224734_GagandeepKaur\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb

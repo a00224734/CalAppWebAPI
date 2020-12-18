@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/yb/1q30dQ9RVsWtjV3nFTvwsGUUhwE6Q+61wzfYQQLgFuBpWBdLCnjmlrhabdyqNAEmYj4IQjA87CfH/ItBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sony\\source\\repos\\BasicCalApp_A00224734_GagandeepKaur\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sony\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sony\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
